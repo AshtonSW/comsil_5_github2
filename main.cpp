@@ -24,7 +24,11 @@ int main(){
 		else
 			p = new LinkedList<int>();
 
-
+	
+	
+	
+	
+	
 		do{
 			prnMenu();
 			cin>>selectNumber;
