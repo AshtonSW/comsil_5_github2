@@ -8,6 +8,15 @@ void prnMenu(){
 	cout<<"*******************************************"<<endl;
 	cout<<endl;
 	cout<<"원하시는 메뉴를 골라주세요: ";
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
 //수정본임 github test
 int main(){
